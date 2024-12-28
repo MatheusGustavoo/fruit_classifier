@@ -16,6 +16,8 @@ pydantic = "*"
 ipywidgets = "*"
 ipykernel = "*"
 pyarrow = "*"
+shap = "*"
+numpy = "*"
 
 [dev-packages]
 
